@@ -1,0 +1,11 @@
+Package: affineScaling
+Title: Implementation of affine scaling method
+Version: 0.0.0.9000
+Authors@R: 
+    person("EKOKO", "CLAUDE", , "ekokoclaude@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: implement the affine scaling method on a linear program
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
